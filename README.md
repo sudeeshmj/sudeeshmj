@@ -1,8 +1,8 @@
 - 👋 Hi, I'm **Sudeesh M J**
 
-- 🌱 I’m currently learning **MERN Fullstack Development**
-
 - 👨‍💻 **PHP Developer**
+
+- 🌱 I’m currently learning **MERN Fullstack Development**
 
 - 📫 How to reach me **sudeeshmj@gmail.com**
 
